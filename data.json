@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "name": "Claudia Wilkinson",
+    "friends": {
+      "friend1": "Adriana Wood",
+      "friend2": "Olivia Sparks",
+      "friend3": "Cardenas Franklin"
+    },
+    "visited": [
+      "GA",
+      "GN",
+      "GL",
+      "ZM",
+      "RO",
+      "PW",
+      "BI"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Johanna Hood",
+    "friends": {
+      "friend1": "Ramsey Mcfarland",
+      "friend2": "Doyle Allison",
+      "friend3": "Oneal Cunningham"
+    },
+    "visited": [
+      "KP",
+      "KI",
+      "LS",
+      "SG",
+      "GH",
+      "LB",
+      "CL"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Arlene Bennett",
+    "friends": {
+      "friend1": "Conley Campbell",
+      "friend2": "Ericka Morales",
+      "friend3": "Fay Price"
+    },
+    "visited": [
+      "TJ",
+      "DZ",
+      "CH",
+      "CN",
+      "HT",
+      "PH",
+      "ZR"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Marla Carver",
+    "friends": {
+      "friend1": "Kenya Hanson",
+      "friend2": "Nettie Scott",
+      "friend3": "Sharon Carney"
+    },
+    "visited": [
+      "UM",
+      "GT",
+      "CY",
+      "MS",
+      "DE",
+      "MC",
+      "LA"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Hays Bradford",
+    "friends": {
+      "friend1": "Estes Knowles",
+      "friend2": "Gladys Cox",
+      "friend3": "Howe Vincent"
+    },
+    "visited": [
+      "HN",
+      "NE",
+      "GW",
+      "MT",
+      "CO",
+      "MD",
+      "MZ"
+    ]
+  }
+]
